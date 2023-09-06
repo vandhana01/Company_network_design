@@ -1,5 +1,8 @@
 # Company_Network_Design
-<img width="998" alt="image" src="https://github.com/Veda1809/company_network_design/assets/142098395/9dc126ac-6aee-4d2e-88b7-15222474dd81">
+
+
+
+<img width="918" alt="image" src="https://github.com/vandhana01/Company_network_design/assets/142392052/d43b4e23-426f-4d6b-8fd1-8c2291f2e63f">
 
 ## Problem Statement
 + A trading floor support center employs 600 staff. They have recently expanded and as a result, need to move to a new building. A building has been identified but has no network. This means that before they can make to move out, new network service needs to be designed and implemented in the new building. Existing network comprises of the following:
@@ -98,11 +101,13 @@ Public IP addresses 195.136.17.0/30, 192.136.17.4/30, 195.136.17.8/30 and 195.13
 11.	Verifying and testing configurations.
  
 # Results
-![image](https://github.com/Veda1809/company_network_design/assets/142098395/a630bfef-4581-455e-9e4e-dcf0aaddc01e)
+![image](https://github.com/vandhana01/Company_network_design/assets/142392052/0b4095af-2fad-4545-bb36-38964b1ac31c)
 
-![image](https://github.com/Veda1809/company_network_design/assets/142098395/1507dbeb-c72d-42c9-9a2e-806216b3bbda)
+![image](https://github.com/vandhana01/Company_network_design/assets/142392052/27bbd90e-3977-4270-b5bd-4ef88aeb5679)
 
-![image](https://github.com/Veda1809/company_network_design/assets/142098395/284229ee-dacc-4cb4-84e7-25ca131e0667)
+![image](https://github.com/vandhana01/Company_network_design/assets/142392052/501d2736-ac2e-45a5-99b4-f9a99602d2ab)
+
+
 
 # Conclusion
 - We can conclude that the load and traffic of switches are reduced by creating VLAN. We are able to ping two different PCs from two different floors of different departments. We could send and receive data from host to every other servers. 
